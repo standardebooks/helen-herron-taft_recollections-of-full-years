@@ -40,10 +40,11 @@ footer{
 
 .horizontal-double-figure div {
     display: table-cell;
+	border: 1px dashed blue;
 }
 
-.horizontal-double-figure div:nth-of-type(2) {
-    padding-left: 1em;
+.horizontal-double-figure{
+	border-spacing: 1em 0em;
 }
 
 @media (max-width: 600px) {
