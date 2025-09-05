@@ -40,7 +40,6 @@ footer{
 
 .horizontal-double-figure div {
     display: table-cell;
-	border: 1px dashed blue;
 }
 
 .horizontal-double-figure{
@@ -54,7 +53,6 @@ footer{
     }
 
 	.horizontal-double-figure div:nth-of-type(2) {
-		padding-left: 0em;
 		padding-top: 1em;
     }
 }
