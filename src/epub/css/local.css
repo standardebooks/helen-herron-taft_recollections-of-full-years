@@ -83,10 +83,6 @@ footer{
 	display: table-cell;
 }
 
-#illustration-22 img{
-	max-height: 40vh;
-}
-
 @media (max-width: 600px) {
     .horizontal-double-figure div {
         display: block;
