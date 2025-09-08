@@ -74,6 +74,19 @@ footer{
 	border-spacing: 1em 0em;
 }
 
+#illustration-22{
+	border-spacing: 1em .5em;
+	display: table;
+}
+
+#illustration-22 > div > div{
+	display: table-cell;
+}
+
+#illustration-22 img{
+	max-height: 40vh;
+}
+
 @media (max-width: 600px) {
     .horizontal-double-figure div {
         display: block;
