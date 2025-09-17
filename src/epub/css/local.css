@@ -68,10 +68,10 @@ footer{
 }
 
 .vertical-double-figure img{
-	max-height: 40vh
+	max-height: 40vh;
 }
 
-.vertical-double-figure img:nth-of-type(2){
+.vertical-double-figure img + img{
 	margin-top: 1em;
 }
 
