@@ -48,50 +48,50 @@
 		<meta property="term" refines="#subject-5">sh2008109323</meta>
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="se:subject">Biography</meta>
+		<meta property="se:subject">Memoir</meta>
+		<meta property="se:subject">Nonfiction</meta>
+		<meta property="se:subject">Travel</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/71696</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/recollectionsoff0000unse_l1x0/</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Recollections_of_Full_Years</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/helen-herron-taft_recollections-of-full-years</meta>
 		<dc:creator id="author">Helen Herron Taft</dc:creator>
 		<meta property="file-as" refines="#author">Taft, Helen Herron</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">CONTRIBUTOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Helen_Herron_Taft</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n85185523</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ill</meta>
 		<dc:contributor id="illustrator-1">Harris &amp; Ewing</dc:contributor>
 		<meta property="file-as" refines="#illustrator-1">Harris &amp; Ewing</meta>
 		<meta property="display-seq" refines="#illustrator-1">0</meta>
 		<meta property="role" refines="#illustrator-1" scheme="marc:relators">ill</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Bror Kronstrand</dc:contributor>
+		<meta property="file-as" refines="#artist">Kronstrand, Bror</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Richard Tonsing</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Tonsing, Richard</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Distributed Proofreaders</meta>
 		<meta property="se:url.homepage" refines="#transcriber-2">https://www.pgdp.net/</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Jonathan Erdman</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Erdman, Jonathan</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
@@ -99,6 +99,73 @@
 		<item href="css/se.css" id="se.css" media-type="text/css"/>
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/illustration-1.jpg" id="illustration-1.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-2.jpg" id="illustration-2.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-3-1.png" id="illustration-3-1.png" media-type="image/png"/>
+		<item href="images/illustration-3-2.png" id="illustration-3-2.png" media-type="image/png"/>
+		<item href="images/illustration-4.jpg" id="illustration-4.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-5-1.png" id="illustration-5-1.png" media-type="image/png"/>
+		<item href="images/illustration-5-2.png" id="illustration-5-2.png" media-type="image/png"/>
+		<item href="images/illustration-6.jpg" id="illustration-6.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-7.jpg" id="illustration-7.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-8-1.jpg" id="illustration-8-1.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-8-2.jpg" id="illustration-8-2.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-9.jpg" id="illustration-9.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-10.jpg" id="illustration-10.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-11.jpg" id="illustration-11.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-12.jpg" id="illustration-12.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-13.jpg" id="illustration-13.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-14-1.jpg" id="illustration-14-1.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-14-2.jpg" id="illustration-14-2.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-15.jpg" id="illustration-15.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-16.jpg" id="illustration-16.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-17.jpg" id="illustration-17.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-18.jpg" id="illustration-18.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-19.jpg" id="illustration-19.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-20-1.jpg" id="illustration-20-1.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-20-2.jpg" id="illustration-20-2.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-21.jpg" id="illustration-21.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-22-1.jpg" id="illustration-22-1.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-22-2.jpg" id="illustration-22-2.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-22-3.jpg" id="illustration-22-3.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-22-4.jpg" id="illustration-22-4.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-23.jpg" id="illustration-23.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-24.jpg" id="illustration-24.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-25-1.jpg" id="illustration-25-1.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-25-2.jpg" id="illustration-25-2.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-26-1.jpg" id="illustration-26-1.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-26-2.jpg" id="illustration-26-2.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-27.jpg" id="illustration-27.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-28.jpg" id="illustration-28.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-29-1.jpg" id="illustration-29-1.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-29-2.jpg" id="illustration-29-2.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-30.jpg" id="illustration-30.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-31.jpg" id="illustration-31.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-32-1.jpg" id="illustration-32-1.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-32-2.jpg" id="illustration-32-2.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-32.jpg" id="illustration-32.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-33-1.jpg" id="illustration-33-1.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-33-2.jpg" id="illustration-33-2.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-34.jpg" id="illustration-34.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-35.jpg" id="illustration-35.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-36.jpg" id="illustration-36.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-37.jpg" id="illustration-37.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-38.jpg" id="illustration-38.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-39.jpg" id="illustration-39.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-40-1.jpg" id="illustration-40-1.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-40-2.jpg" id="illustration-40-2.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-41-1.jpg" id="illustration-41-1.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-41-2.jpg" id="illustration-41-2.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-42-1.jpg" id="illustration-42-1.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-42-2.jpg" id="illustration-42-2.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-43.jpg" id="illustration-43.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-44.jpg" id="illustration-44.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-45.jpg" id="illustration-45.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-46.jpg" id="illustration-46.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-47.jpg" id="illustration-47.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-48.jpg" id="illustration-48.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-49.jpg" id="illustration-49.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-50.jpg" id="illustration-50.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-51.jpg" id="illustration-51.jpg" media-type="image/jpeg"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/chapter-1.xhtml" id="chapter-1.xhtml" media-type="application/xhtml+xml"/>
