@@ -89,12 +89,14 @@ footer{
 	margin-top: 1em;
 }
 
-.horizontal-double-figure div {
+.horizontal-double-figure div div {
     display: table-cell;
 }
 
 .horizontal-double-figure{
 	border-spacing: 1em 0em;
+	display: table;
+	margin: 1em auto;
 }
 
 @media (max-width: 600px) {
