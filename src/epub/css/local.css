@@ -100,12 +100,12 @@ footer{
 }
 
 @media (max-width: 600px) {
-    .horizontal-double-figure div {
+    .horizontal-double-figure div div {
         display: block;
 		width: 100%;
     }
 
-	.horizontal-double-figure div:nth-of-type(2) {
+	.horizontal-double-figure div div:nth-of-type(2) {
 		margin-top: 1em;
     }
 }
