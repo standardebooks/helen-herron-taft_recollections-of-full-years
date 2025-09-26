@@ -65,6 +65,7 @@ footer{
 	text-align: right;
 }
 
+#chapter-14 blockquote p:nth-of-type(2):nth-last-of-type(n+2),
 [epub|type~="z3998:salutation"] + p{
 	text-indent: 0;
 }
