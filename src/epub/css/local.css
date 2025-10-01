@@ -113,15 +113,41 @@ footer{
 }
 
 #illustration-22{
+	align-items: center;
 	border-spacing: 1em .5em;
 	display: table;
 	margin: 1em auto;
+	width: auto;
 }
 
-#illustration-22 > div > div > div{
+#illustration-22{
+	display: table;
+	margin: 1em auto;
+	width: 100%;
+}
+
+#illustration-22 > div{
+	display: table-row;
+	text-align: center;
+}
+
+#illustration-22 > div > div{
 	display: table-cell;
 }
 
-[epub|type~="z3998:signature"]{
-	font-variant: small-caps;
+#illustration-22 > div > div:first-of-type > img{
+	margin-right: 0em;
+}
+
+#illustration-22 > div > div:last-of-type > img{
+	margin-left: 0em;
+}
+
+#illustration-22 img{
+	max-height: 40vh
+}
+
+#illustration-22 figcaption{
+	display: table-caption;
+	caption-side: bottom;
 }
