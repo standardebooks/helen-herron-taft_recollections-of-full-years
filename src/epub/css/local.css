@@ -113,32 +113,25 @@ footer{
 }
 
 #illustration-22{
-	align-items: center;
-	border-spacing: 1em .5em;
 	display: table;
 	margin: 1em auto;
-	width: 100%;
+	margin-bottom: 0;
 }
 
 #illustration-22 img{
 	max-height: 40vh
 }
 
-#illustration-22 > div{
-	display: table-row;
-	text-align: center;
+#illustration-22 > div:first-of-type img{
+	margin-bottom: 1em;
+}
+
+#illustration-22 > div > div:first-of-type > img{
+	margin-right: 1em;
 }
 
 #illustration-22 > div > div{
 	display: table-cell;
-}
-
-#illustration-22 > div > div:first-of-type > img{
-	margin-right: 0em;
-}
-
-#illustration-22 > div > div:last-of-type > img{
-	margin-left: 0em;
 }
 
 #illustration-22 figcaption{
