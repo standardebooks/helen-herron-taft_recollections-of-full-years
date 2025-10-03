@@ -52,7 +52,7 @@
 		<meta property="se:subject">Memoir</meta>
 		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Travel</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Helen Herron Taft, wife of 27th President of the United States, William Howard Taft, recalls her life married to married to one of America's most influential political figures as his career brought their family from Cincinnati to the Philippines and eventually to the White House.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
