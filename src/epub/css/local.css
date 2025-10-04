@@ -89,6 +89,14 @@ footer{
 	margin-top: 1em;
 }
 
+#illustration-42 img:first-of-type{
+	max-height: 31.6vh
+}
+
+#illustration-42 img:last-of-type{
+	max-height: 48.4vh
+}
+
 @media (max-width: 600px) {
     .horizontal-double-figure > div > div {
         display: block;
