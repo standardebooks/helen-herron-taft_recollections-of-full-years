@@ -81,20 +81,20 @@ footer{
 	font-variant: all-small-caps;
 }
 
-.vertical-double-figure img{
+.vertical-double-figure > img{
 	max-height: 40vh;
 }
 
-.vertical-double-figure img + img{
+.vertical-double-figure > img + img{
 	margin-top: 1em;
 }
 
-#illustration-42 img:first-of-type{
-	max-height: 31.6vh
+#illustration-42 > img:first-of-type{
+	max-height: 31.6vh;
 }
 
-#illustration-42 img:last-of-type{
-	max-height: 48.4vh
+#illustration-42 > img:last-of-type{
+	max-height: 48.4vh;
 }
 
 @media (max-width: 600px) {
