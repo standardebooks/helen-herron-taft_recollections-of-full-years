@@ -60,12 +60,17 @@ figure.full-page{
 	break-before: page;
 }
 
+header{
+	font-variant: small-caps;
+	margin: 1em;
+	text-align: center;
+}
+
 footer{
 	margin-top: 1em;
 	text-align: right;
 }
 
-#chapter-14 blockquote[epub|type~="z3998:letter"] p:nth-of-type(2):nth-last-of-type(n+2),
 [epub|type~="z3998:salutation"] + p{
 	text-indent: 0;
 }
