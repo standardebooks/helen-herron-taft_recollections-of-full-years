@@ -125,29 +125,40 @@ footer{
 	}
 }
 
+/* Chapter 9 image grid */
 #illustration-22{
-	display: table;
-	margin: 1em auto;
-	margin-bottom: 0;
+	margin: 1em auto 0;
 }
 
 #illustration-22 img{
+	margin-bottom: 1em;
 	max-height: 40vh;
 }
 
-#illustration-22 > div:first-of-type img{
-	margin-bottom: 1em;
+#illustration-22 div:last-of-type > div:last-of-type > img{
+	margin-bottom: 0;
 }
 
-#illustration-22 > div > div:first-of-type > img{
-	margin-right: 1em;
-}
+@supports(display: table){
+	#illustration-22{
+		display: table;
+	}
 
-#illustration-22 > div > div{
-	display: table-cell;
-}
+	#illustration-22 > div > div{
+		display: table-cell;
+	}
 
-#illustration-22 figcaption{
-	caption-side: bottom;
-	display: table-caption;
+	#illustration-22 > div > div:first-of-type > img{
+		margin-right: 1em;
+	}
+
+	#illustration-22 div:last-of-type > div > img{
+		margin-bottom: 0;
+	}
+
+	#illustration-22 figcaption{
+		caption-side: bottom;
+		display: table-caption;
+	}
 }
+/* End chapter 9 image grid */
