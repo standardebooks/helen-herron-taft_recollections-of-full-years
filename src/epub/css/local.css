@@ -50,8 +50,7 @@ figcaption{
 	text-align: center;
 }
 
-figcaption i,
-figcaption em{
+figcaption i{
 	font-style: normal;
 }
 
