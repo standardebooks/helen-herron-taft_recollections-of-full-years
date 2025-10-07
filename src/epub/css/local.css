@@ -101,63 +101,51 @@ p[epub|type~="z3998:salutation"],
 	max-height: 48.4vh;
 }
 
-@media(max-width: 600px){
-	.horizontal-double-figure > div > div{
-		display: block;
-		width: 100%;
-	}
-
-	.horizontal-double-figure > div > div:nth-of-type(2){
-		margin-top: 1em;
-	}
+.horizontal-double-figure{
+	text-align: center;
 }
 
-@media(min-width: 601px){
-	.horizontal-double-figure{
-		border-spacing: 1em 0;
-		display: table;
-		margin: 1em auto;
+.horizontal-double-figure > img{
+	display: inline-block;
+	max-width: 40vw;
+}
+
+.horizontal-double-figure > img + img{
+	margin: 0 0 0 1em;
+}
+
+@media(max-width: 600px){
+	.horizontal-double-figure > img{
+		display: block;
+		max-width: 100%;
 	}
 
-	.horizontal-double-figure > div > div{
-		display: table-cell;
+	.horizontal-double-figure > img + img{
+		margin: 1em 0 0 0;
 	}
 }
 
 /* Chapter 9 image grid */
-#illustration-22{
-	margin: 1em auto 0;
-}
-
 #illustration-22 img{
 	margin-bottom: 1em;
 	max-height: 40vh;
 }
 
-#illustration-22 div:last-of-type > div:last-of-type > img{
-	margin-bottom: 0;
-}
-
 @supports(display: table){
 	#illustration-22{
-		display: table;
+		display: flex;
+		flex-wrap: wrap;
+		gap: 1em;
+		justify-content: center;
 	}
 
-	#illustration-22 > div > div{
-		display: table-cell;
-	}
-
-	#illustration-22 > div > div:first-of-type > img{
-		margin-right: 1em;
-	}
-
-	#illustration-22 div:last-of-type > div > img{
-		margin-bottom: 0;
+	#illustration-22 img{
+		margin: 0;
 	}
 
 	#illustration-22 figcaption{
-		caption-side: bottom;
-		display: table-caption;
+		margin: 0;
+		width: 100%;
 	}
 }
 /* End chapter 9 image grid */
