@@ -62,7 +62,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/71696</dc:source>
 		<dc:source>https://archive.org/details/recollectionsoff0000unse_l1x0/</dc:source>
-		<meta property="se:word-count">131447</meta>
+		<meta property="se:word-count">130731</meta>
 		<meta property="se:reading-ease.flesch">53.75</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Recollections_of_Full_Years</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/helen-herron-taft_recollections-of-full-years</meta>
