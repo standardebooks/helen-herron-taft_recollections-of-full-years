@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-GB">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-GB">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years</dc:identifier>
 		<dc:date>2025-10-07T17:03:37Z</dc:date>
@@ -53,13 +53,13 @@
 		<meta property="schema:genre">Memoir</meta>
 		<meta property="schema:genre">Nonfiction</meta>
 		<meta property="schema:genre">Travel</meta>
-		<dc:description id="description">Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/helen-herron-taft"&gt;Helen Herron Taft&lt;/a&gt; served as First Lady of the United States from 1909–1913 alongside her husband, William Howard Taft, the twenty-seventh President of the United States. Her memoir, &lt;i&gt;Recollections of Full Years&lt;/i&gt;, recalls her experiences alongside her husband across his lengthy political career, and is the first memoir to be published by a First Lady.&lt;/p&gt;
 			&lt;p&gt;Mrs. Taft’s recollections start from her beginnings as a Cincinnati socialite, and go on to narrate her experiences as her husband ascends in his political career from Solicitor General of the United States, to Governor-General of the Philippines, and eventually to the Presidency.&lt;/p&gt;
 			&lt;p&gt;Just over half of the book focuses on the Taft family’s time in the Philippines. A detailed account of Philippine life as a politician and a cultural outsider offers unique perspective on this volatile era in Philippine history. Much of the book takes the form of a travelogue, as Mrs. Taft recalls stories in extensive detail about the travels that her husband’s political career took their family on, including Japan, Cuba, Hawaii, and of course, the Philippines.&lt;/p&gt;
 			&lt;p&gt;Following Taft’s election as the twenty-seventh President, the memoir turns to accounts of life in the White House from the perspective of the First Lady. History would remember Mrs. Taft as a trendsetter who expanded the role of the First Lady in significant ways, many of which she recounts from her perspective. This memoir takes readers through the very end of the Taft administration, as the family prepares to leave the White House following &lt;a href="https://standardebooks.org/ebooks/woodrow-wilson"&gt;Woodrow Wilson’s&lt;/a&gt; victory in the election of 1912.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/71696</dc:source>
 		<dc:source>https://archive.org/details/recollectionsoff0000unse_l1x0</dc:source>
