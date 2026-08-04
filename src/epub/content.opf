@@ -53,7 +53,7 @@
 		<meta property="schema:genre">Memoir</meta>
 		<meta property="schema:genre">Nonfiction</meta>
 		<meta property="schema:genre">Travel</meta>
-		<dc:abstract>Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.</dc:abstract>
+		<meta property="schema:abstract">Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/helen-herron-taft"&gt;Helen Herron Taft&lt;/a&gt; served as First Lady of the United States from 1909–1913 alongside her husband, William Howard Taft, the twenty-seventh President of the United States. Her memoir, &lt;i&gt;Recollections of Full Years&lt;/i&gt;, recalls her experiences alongside her husband across his lengthy political career, and is the first memoir to be published by a First Lady.&lt;/p&gt;
 			&lt;p&gt;Mrs. Taft’s recollections start from her beginnings as a Cincinnati socialite, and go on to narrate her experiences as her husband ascends in his political career from Solicitor General of the United States, to Governor-General of the Philippines, and eventually to the Presidency.&lt;/p&gt;
