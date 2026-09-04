@@ -32,10 +32,10 @@
 		<dc:title id="title">Recollections of Full Years</dc:title>
 		<meta property="file-as" refines="#title">Recollections of Full Years</meta>
 		<dc:subject id="subject-1">Autobiographies</dc:subject>
-		<dc:subject id="subject-2">Philippines -- Description and travel</dc:subject>
-		<dc:subject id="subject-3">Washington (D.C.) -- Social life and customs</dc:subject>
+		<dc:subject id="subject-2">Philippines--Description and travel</dc:subject>
+		<dc:subject id="subject-3">Washington (D.C.)--Social life and customs</dc:subject>
 		<dc:subject id="subject-4">White House (Washington, D.C.)</dc:subject>
-		<dc:subject id="subject-5">Presidents' spouses -- United States -- Biography</dc:subject>
+		<dc:subject id="subject-5">Presidents' spouses--United States--Biography</dc:subject>
 		<dc:subject id="subject-6">Taft, Helen Herron, 1861-1943</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85010049</meta>
