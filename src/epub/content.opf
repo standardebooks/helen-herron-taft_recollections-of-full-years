@@ -78,6 +78,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">wfw</meta>
 		<dc:contributor id="illustrator-1">Harris &amp; Ewing</dc:contributor>
 		<meta property="file-as" refines="#illustrator-1">Harris &amp; Ewing</meta>
+		<link href="https://en.wikipedia.org/wiki/Harris_%26_Ewing" refines="#illustrator-1" rel="schema:sameAs"/>
 		<meta property="role" refines="#illustrator-1" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist">Bror Kronstrand</dc:contributor>
 		<meta property="file-as" refines="#artist">Kronstrand, Bror</meta>
