@@ -130,7 +130,7 @@ p[epub|type~="z3998:salutation"],
 	max-height: 40vh;
 }
 
-@supports(display: table){
+@supports(display: flex){
 	#illustration-22{
 		display: flex;
 		flex-wrap: wrap;
